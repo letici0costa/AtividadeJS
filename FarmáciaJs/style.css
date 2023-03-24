@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+
+}
+
+body{
+  background-color: rgb(104, 60, 11);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(223, 183, 139);
+}
+.medicamento{
+    padding-left: 780px;
+    font-size: 20px;
+    color: rgb(223, 183, 139);
+}
+
+.promoção{
+   padding-left: 780px;
+    font-size: 30px;
+}
+
+.aspirina{
+    padding-left: 780px;
+    color: rgb(223, 183, 139);
+    font-size: 20px;
+}
